@@ -1,12 +1,17 @@
 # DIGITAL LITERACY PROJECT OVERVIEW
 
 Project overview:
+
 This project focuses on developing digital literacy skills through practical tasks using modern digital tools. It emphasizes not only the use of technology but also responsible, ethical, and professional digital behavior. The project includes creating an infographic, building online presence, designing a quiz, analyzing communication issues, and understanding cybersecurity awareness.
 
 Key Objectives:
+
 1.Understand the concept of digital literacy
+
 2.Master professional design tools for information visualization 
+
 3.Establish a professional digital presence across industry-standard platforms
+
 4.Develop safe internet practices
 
 Tools & Platforms Used
